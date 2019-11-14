@@ -1,0 +1,149 @@
+/*Body*/
+body {
+background-color: white;
+font-size: 1em;
+margin-right: 2em;
+margin-left: 2em;
+font-family: 'Roboto', sans-serif;
+color:rgb(154, 160, 160);
+}
+
+/*main picture*/
+
+#erika {
+    border-radius: 50%;
+    border:solid black 0.25em; 
+    text-align: center;
+    height: 12em;
+    box-sizing: border-box;
+    text-align: center;
+   
+}
+
+
+/*Subtitle*/
+#web {
+    text-align: center;
+}
+
+/*all headers*/
+h1 {
+    background:white;
+    color:black;
+    font-size: 2em; 
+    text-align:center;
+    font-weight:normal
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+}
+
+section {
+    display: block;
+    margin-bottom: 25px;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 1em;
+    color: rgb(84, 95, 95);
+    box-sizing: border-box;
+}
+
+/*postcard*/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 80%;
+}
+#postcard {
+    font-weight: bold;
+}
+
+nav a { 
+    display: block;
+    background-color: rgb(169, 175, 175); 
+    color:white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-right: 10px;
+    margin-bottom: 2px;
+}
+
+ul {
+    padding-left:0px;
+}
+
+ul li {
+    text-decoration:none;
+    list-style: none;
+}
+
+.details {
+    background-color:white;
+    color: rgb(145, 150, 150);
+    box-sizing: border-box;
+    font-size: 16px;
+    text-decoration: none ;
+    text-align: left;
+    padding-left:0px;
+    }
+
+.details ul li a{
+    color: grey;
+    list-style: none;
+    list-style-type: none ;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+  }
+
+/*Contact section icons*/
+
+  .fa-envelope-square {
+      color:#00ffcc;
+    }
+  .fa-skype {
+      color:#00ffcc;
+  }
+  .fa-phone-square {
+      color:#00ffcc;
+  }
+  .fa-github {
+      color:#00ffcc;
+  }
+  .fa-linkedin {
+    color: #00ffcc;
+  }
+
+.container {
+    box-sizing:border-box;
+    background-color: white;
+    padding-bottom: 0em;
+    text-align: left;
+    white-space: normal;
+}
+
+.skills {
+    text-align: left; 
+    color: grey; 
+    line-height: 2px;
+}
+
+.HTML-CSS {
+    width: 30%; background-color: #33FFE3; height: 7px; text-align: left; font-size: 18px;margin-bottom: none;
+}
+.JavaScript {
+    width: 10%; background-color:#33FFE3; height: 7px;text-align: left; font-size: 18px;margin-bottom: none;
+} 
+.PM {
+    width: 90%; background-color: #33FFE3; height: 7px;text-align: left; font-size: 18px; margin-bottom: none;
+} 
